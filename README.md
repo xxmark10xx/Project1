@@ -19,7 +19,26 @@ I will be using DOM manipulation in order to make this game since there wont be 
 
 ### Wireframes
 <!-- Wireframe -->
+
+![Wireframe](https://imgur.com/ZcH2C0V)
+
 ---
 
-![Wireframe](.IMG_0164.jpg)
+### MVPs
+1. To make a game two player
+1. To be able to point out winner tally 
+1. Restart button
+1. clickable divs 
+1. able to remove divs based on if "hnad" has all fingers up.
+
+---
+
+### Stretch Goals
+ 1. Be able to make the hands comback if player decides to split fingers 
+ 1. make it more than two player.
+
+
+
+
+
 
