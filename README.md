@@ -20,7 +20,9 @@ I will be using DOM manipulation in order to make this game since there wont be 
 ### Wireframes
 <!-- Wireframe -->
 
+
 ![Wireframe](./images/WireFrame1.jpg)
+
 
 ---
 
