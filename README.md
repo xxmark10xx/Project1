@@ -20,7 +20,7 @@ I will be using DOM manipulation in order to make this game since there wont be 
 ### Wireframes
 <!-- Wireframe -->
 
-![Wireframe](https://imgur.com/ZcH2C0V)
+![Wireframe](./images/WireFrame1.jpg)
 
 ---
 
