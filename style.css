@@ -1,0 +1,83 @@
+body {
+    background-color: beige;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#instructions {
+    display: flex;
+    
+}
+
+h1 {
+   text-align: center;
+   
+}
+
+h3 {
+   position: relative;
+    
+}
+#reset-button {
+    
+    margin: 3rem;
+}
+
+#container2 {
+    float: left;
+    margin-left: 20rem;
+}
+
+#container {
+    float: right;
+    margin-right: 20rem;
+}
+
+#player1LeftHand {
+    margin-bottom: 1rem;
+}
+#player1RightHand {
+    margin-bottom: 1rem;
+}
+
+#player2LeftHand {
+    margin-bottom: 1rem;
+}
+
+#player2RightHand {
+    margin-bottom: 1rem;
+    margin-left: auto;
+}
+
+
+#player1Left1, #player1Left2, #player1Left3,
+#player1Left4,  #player1Left5 {
+    display: block;
+    padding: 1.5rem;
+    background-color: aqua;
+}
+
+#player1Right1, #player1Right2, #player1Right3,
+#player1Right4,  #player1Right5 {
+    display: block;
+    padding: 1.5rem;
+    background-color: aqua;
+}
+
+#player2Right1, #player2Right2, #player2Right3,
+#player2Right4, #player2Right5 {
+    display: block;
+    padding: 1.5rem;
+    background-color: red;
+}
+
+#player2Left1, #player2Left2, #player2Left3,
+#player2Left4, #player2Left5 {
+    display: block;
+    padding: 1.5rem;
+    background-color: red;
+}
