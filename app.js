@@ -79,7 +79,80 @@ function showRight5 (e) {
 }
 
 /*
-    THIS IS TO MAKE THE BUTTONS FOR PLAYER 2 DISAPEAR UNTIL THE FIRST ON IS CLICKED
+    THIS IS TO MAKE THE BUTTONS FOR PLAYER 2 LEFT HAND DISAPPEAR UNTIL THE FIRST ON IS CLICKED
 */
 
+document.querySelector('#player2Left2').style.display = 'none';
+document.querySelector('#player2Left1').addEventListener('click', showP2Left2)
 
+document.querySelector('#player2Left3').style.display = 'none';
+document.querySelector('#player2Left2').addEventListener('click', showP2Left3)
+
+document.querySelector('#player2Left4').style.display = 'none';
+document.querySelector('#player2Left3').addEventListener('click', showP2Left4) 
+
+
+document.querySelector('#player2Left5').style.display = 'none';
+document.querySelector('#player2Left4').addEventListener('click', showP2Left5) 
+
+/*
+    THIS IS TO MAKE THE BUTTONS FOR PLAYER 2 RIGHT HAND DISAPPEAR  UNTIL THE PREVIOUS BUTTON IS 
+    CLICKED
+*/
+
+document.querySelector('#player2Right2').style.display = 'none';
+document.querySelector('#player2Right1').addEventListener('click', showP2Right2)
+
+document.querySelector('#player2Right3').style.display = 'none';
+document.querySelector('#player2Right2').addEventListener('click', showP2Right3)
+
+document.querySelector('#player2Right4').style.display = 'none';
+document.querySelector('#player2Right3').addEventListener('click', showP2Right4)
+
+document.querySelector('#player2Right5').style.display = 'none';
+document.querySelector('#player2Right4').addEventListener('click',showP2Right5)
+
+/*
+    THESE FUNCTION ARE TO ALOOW THE BUTTON TO BE DISPLAYED
+*/
+
+function showP2Left2 (e) {
+    document.querySelector('#player2Left2').style.display = 'block';
+    e.preventDefault()
+}
+
+function showP2Left3 (e) {
+    document.querySelector('#player2Left3').style.display = 'block';
+    e.preventDefault()
+}
+
+function showP2Left4 (e) {
+    document.querySelector('#player2Left4').style.display = 'block';
+    e.preventDefault()
+}
+
+function showP2Left5 (e) {
+    document.querySelector('#player2Left5').style.display = 'block';
+    e.preventDefault()
+}
+
+/*
+    THESE FUNCTIONS ARE TO ALLOW THE BUTTONS TO BE DISPLAYED FOR THE RIGHT HAND OF PLAYER 2.
+ */
+
+function showP2Right2 (e) {
+    document.querySelector('#player2Right2').style.display = 'block';
+    e.preventDefault()
+}
+function showP2Right3 (e) {
+    document.querySelector('#player2Right3').style.display = 'block';
+    e.preventDefault()
+}
+function showP2Right4 (e) {
+    document.querySelector('#player2Right4').style.display = 'block';
+    e.preventDefault()
+}
+function showP2Right5 (e) {
+    document.querySelector('#player2Right5').style.display = 'block';
+    e.preventDefault()
+}
