@@ -38,6 +38,7 @@ I will be using DOM manipulation in order to make this game since there wont be 
 ### Stretch Goals
  1. Be able to make the hands comback if player decides to split fingers 
  1. make it more than two player.
+ 1. allow the game to add more buttons on a click based on how many a player has.
 
 
 

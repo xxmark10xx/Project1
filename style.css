@@ -1,16 +1,20 @@
 body {
-    background-color: beige;
+    background-color: black;
 }
 
 #header {
+    color: white;
     display: flex;
     justify-content: center;
     text-align: center;
 }
 
 #instructions {
+    color: white;
     display: flex;
-    
+    justify-content: center;
+    text-align: center;
+
 }
 
 h1 {
@@ -20,21 +24,26 @@ h1 {
 
 h3 {
    position: relative;
+   margin-right: 30rem;
+   margin-left: 30rem;
     
 }
 #reset-button {
-    
+    color: white;
+    background-color: black;
+    border: 3px solid yellow;
+    border-radius: 40px;
     margin: 3rem;
 }
 
 #container2 {
-    float: left;
-    margin-left: 20rem;
+    float: right;
+    margin-right: 20rem;
 }
 
 #container {
-    float: right;
-    margin-right: 20rem;
+    float: left;
+    margin-left: 20rem;
 }
 
 #player1LeftHand {
