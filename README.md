@@ -77,7 +77,7 @@ This function has a conditional that displays a winner based on the number of cl
 
 ### MVPs
 1. To make a game two player
-1. To be able to point out winner tally 
+1. To be able to point out winner 
 1. Restart button
 1. clickable divs/buttons
 1. able to remove divs based on if "hand" has all fingers up.
@@ -88,6 +88,10 @@ This function has a conditional that displays a winner based on the number of cl
  1. Be able to make the hands comback if player decides to split fingers 
  1. make it more than two player.
  1. allow the game to add more buttons on a click based on how many a player has.
+
+
+ ### Deployable Game
+ https://xxmark10xx.github.io/Project1/
 
 
 
