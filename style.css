@@ -1,3 +1,4 @@
+
 body {
     background-color: black;
 }
@@ -7,19 +8,16 @@ body {
     display: flex;
     justify-content: center;
     text-align: center;
+    font-family: Orbitron;
 }
 
 #instructions {
     color: white;
-    display: flex;
-    justify-content: center;
+    /* display: flex;
+    justify-content: center; */
     text-align: center;
+    font-family: Orbitron;
 
-}
-
-h1 {
-   text-align: center;
-   
 }
 
 h3 {
@@ -34,32 +32,40 @@ h3 {
     border: 3px solid yellow;
     border-radius: 40px;
     margin: 3rem;
+    font-family: Orbitron;
 }
 
 #container2 {
     float: right;
     margin-right: 20rem;
+    margin-bottom: 20rem;
+    font-family: Orbitron;
 }
 
 #container {
     float: left;
     margin-left: 20rem;
+    margin-bottom: 20rem;
+    font-family: Orbitron;
 }
 
 #player1LeftHand {
     margin-bottom: 1rem;
+    font-family: Orbitron;
 }
 #player1RightHand {
     margin-bottom: 1rem;
+    font-family: Orbitron;
 }
 
 #player2LeftHand {
     margin-bottom: 1rem;
+    font-family: Orbitron;
 }
 
 #player2RightHand {
     margin-bottom: 1rem;
-    margin-left: auto;
+    font-family: Orbitron;
 }
 
 
@@ -68,6 +74,7 @@ h3 {
     display: block;
     padding: 1.5rem;
     background-color: aqua;
+    font-family: Orbitron;
 }
 
 #player1Right1, #player1Right2, #player1Right3,
@@ -75,6 +82,7 @@ h3 {
     display: block;
     padding: 1.5rem;
     background-color: aqua;
+    font-family: Orbitron;
 }
 
 #player2Right1, #player2Right2, #player2Right3,
@@ -82,11 +90,14 @@ h3 {
     display: block;
     padding: 1.5rem;
     background-color: red;
+    font-family: Orbitron;
 }
+
 
 #player2Left1, #player2Left2, #player2Left3,
 #player2Left4, #player2Left5 {
     display: block;
     padding: 1.5rem;
     background-color: red;
+    font-family: Orbitron;
 }

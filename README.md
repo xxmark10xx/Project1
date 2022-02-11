@@ -21,7 +21,7 @@ I will be using DOM manipulation in order to make this game since there wont be 
 <!-- Wireframe -->
 
 
-![Wireframe](./images/WireFrame1.jpg)
+![Wireframe](./images/WreFrame1.jpg)
 
 
 ---
@@ -30,8 +30,8 @@ I will be using DOM manipulation in order to make this game since there wont be 
 1. To make a game two player
 1. To be able to point out winner tally 
 1. Restart button
-1. clickable divs 
-1. able to remove divs based on if "hnad" has all fingers up.
+1. clickable divs/buttons
+1. able to remove divs based on if "hand" has all fingers up.
 
 ---
 
