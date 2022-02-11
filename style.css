@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     text-align: center;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 
 #instructions {
@@ -16,7 +16,7 @@ body {
     /* display: flex;
     justify-content: center; */
     text-align: center;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 
 }
 
@@ -32,40 +32,40 @@ h3 {
     border: 3px solid yellow;
     border-radius: 40px;
     margin: 3rem;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 
 #container2 {
     float: right;
     margin-right: 20rem;
     margin-bottom: 20rem;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 
 #container {
     float: left;
     margin-left: 20rem;
     margin-bottom: 20rem;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 
 #player1LeftHand {
     margin-bottom: 1rem;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 #player1RightHand {
     margin-bottom: 1rem;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 
 #player2LeftHand {
     margin-bottom: 1rem;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 
 #player2RightHand {
     margin-bottom: 1rem;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 
 
@@ -74,7 +74,7 @@ h3 {
     display: block;
     padding: 1.5rem;
     background-color: aqua;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 
 #player1Right1, #player1Right2, #player1Right3,
@@ -82,7 +82,7 @@ h3 {
     display: block;
     padding: 1.5rem;
     background-color: aqua;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 
 #player2Right1, #player2Right2, #player2Right3,
@@ -90,7 +90,7 @@ h3 {
     display: block;
     padding: 1.5rem;
     background-color: red;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
 
 
@@ -99,5 +99,5 @@ h3 {
     display: block;
     padding: 1.5rem;
     background-color: red;
-    font-family: Orbitron;
+    font-family: 'Orbitron', 'sans-serif';
 }
