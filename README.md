@@ -88,10 +88,15 @@ This function has a conditional that displays a winner based on the number of cl
  1. Be able to make the hands comback if player decides to split fingers 
  1. make it more than two player.
  1. allow the game to add more buttons on a click based on how many a player has.
+ 1. make an AI to play against
 
 
  ### Deployable Game
  https://xxmark10xx.github.io/Project1/
+
+ ### Resources
+1. Google Fonts
+1. MDN and W3Schools
 
 
 
